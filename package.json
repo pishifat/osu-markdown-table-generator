@@ -1,0 +1,11 @@
+{
+    "name": "kuba-oms-teams-table-generator",
+    "version": "1.0.0",
+    "description": "generate table",
+    "main": "generator.js",
+    "author": "pishifat ",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.0"
+    }
+}
