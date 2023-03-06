@@ -1,4 +1,5 @@
 | 3ABTPA B Tpu | ![][flag_RU] [Florescence](https://osu.ppy.sh/users/6495550), ![][flag_RU] [aishiteiru-](https://osu.ppy.sh/users/10566388) | *TBD* |
+| 7km | ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840), ![][flag_DE] [pccl](https://osu.ppy.sh/users/11665315) | *TBD* |
 | Bing Chilling Delivery Service | ![][flag_DE] [Bazuso](https://osu.ppy.sh/users/11726139), ![][flag_DE] [MrBeast in Ohio](https://osu.ppy.sh/users/15308238) | *TBD* |
 | blacklist international | ![][flag_PH] [acnozei](https://osu.ppy.sh/users/10141268), ![][flag_PH] [flake](https://osu.ppy.sh/users/7627157) | *TBD* |
 | bulochki k chayu | ![][flag_RU] [piroshki](https://osu.ppy.sh/users/7645522), ![][flag_RU] [Delette](https://osu.ppy.sh/users/7835664) | *TBD* |
@@ -6,34 +7,48 @@
 | cotton__123 | ![][flag_KR] [cotton__123](https://osu.ppy.sh/users/9823042), ![][flag_KR] [Pyo](https://osu.ppy.sh/users/6641784) | *TBD* |
 | cRyo[Skystar]'s Farewell | ![][flag_PL] [hanabyte](https://osu.ppy.sh/users/8617799), ![][flag_PL] [herestotheroc](https://osu.ppy.sh/users/13575608) | *TBD* |
 | dönerbuden bande | ![][flag_DE] [Slifer](https://osu.ppy.sh/users/15084122), ![][flag_DE] [PaRaDogi](https://osu.ppy.sh/users/2054596) | *TBD* |
-| FUMO 20 GRAMMI IN 10 SEC CAR | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_IT] [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | *TBD* |
-| FUMO 20 GRAMMI IN 10 SEC CAR  | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_IT] [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | *TBD* |
+| Double Trouble | ![][flag_DZ] [IssaFR](https://osu.ppy.sh/users/23234320), ![][flag_DZ] [SiriusOnly](https://osu.ppy.sh/users/22287370) | *TBD* |
+| Eye of Aeon | ![][flag_UA] [allein](https://osu.ppy.sh/users/6221637), ![][flag_UA] [Luscent](https://osu.ppy.sh/users/2688581) | *TBD* |
+| Floof | ![][flag_US] [Fufster](https://osu.ppy.sh/users/9983012), ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976) | *TBD* |
 | FUMO 20 GRAMMI IN 10 SEC CAR  | ![][flag_IT] [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ![][flag_IT] [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | *TBD* |
 | Harvard Dropouts™ | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405), ![][flag_BE] [Mimari](https://osu.ppy.sh/users/14339830) | *TBD* |
-| Imperishable Night | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602), ![][flag_KR] [Dailycare](https://osu.ppy.sh/users/1634445) | *TBD* |
+| Imperishable Night | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602), ![][flag_KR] [Mimari](https://osu.ppy.sh/users/14339830) | *TBD* |
 | Neonics | ![][flag_LT] [AmeThysTas](https://osu.ppy.sh/users/26748801), ![][flag_LT] [Juradon](https://osu.ppy.sh/users/15565433) | *TBD* |
 | Nightcord at Various Times | ![][flag_US] [Local Hero](https://osu.ppy.sh/users/16134122), ![][flag_US] [Kuroise](https://osu.ppy.sh/users/14547127) | *TBD* |
-| not a team | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955), ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804) | *TBD* |
+| not a team | ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804), ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | *TBD* |
+| owo team | ![][flag_PL] [rEdo](https://osu.ppy.sh/users/49329), ![][flag_PL] [pedo](https://osu.ppy.sh/users/15902970) | *TBD* |
 | PepeBusinessCorp | ![][flag_EE] [iljaaz](https://osu.ppy.sh/users/8501291), ![][flag_EE] [DeviousPanda](https://osu.ppy.sh/users/4966334) | *TBD* |
 | piroshki s kartoshkoy | ![][flag_RU] [M a r v o l l o](https://osu.ppy.sh/users/5504231), ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337) | *TBD* |
+| Return To Monke :3c | ![][flag_PL] [M i X](https://osu.ppy.sh/users/7160660), ![][flag_PL] [Kimchi Sandwich](https://osu.ppy.sh/users/13567121) | *TBD* |
 | Roberto Logística ltda. | ![][flag_BR] [neuronio](https://osu.ppy.sh/users/7198334), ![][flag_BR] [Maot](https://osu.ppy.sh/users/3914271) | *TBD* |
+| Salute bebra | ![][flag_RU] [zadknus](https://osu.ppy.sh/users/12101917), ![][flag_RU] [original3s](https://osu.ppy.sh/users/15022846) | *TBD* |
 | smaller than 3 | ![][flag_VN] [Zelzatter Zero](https://osu.ppy.sh/users/9200415), ![][flag_VN] [JustABeginner](https://osu.ppy.sh/users/9388535) | *TBD* |
+| tragic love extra | ![][flag_SG] [_Chroma](https://osu.ppy.sh/users/7764053), ![][flag_SG] [Dogerinoo](https://osu.ppy.sh/users/9467258) | *TBD* |
+| Twin-Tails | ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669), ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | *TBD* |
 | :moyai: | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_PH] [-Rustyy](https://osu.ppy.sh/users/16355636) | *TBD* |
 | Alien Tails | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_ES] [autofanboy](https://osu.ppy.sh/users/636114) | *TBD* |
-| CaucaSUS | ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_UA] [yuinn](https://osu.ppy.sh/users/11239593) | *TBD* |
+| Catch the AFK | ![][flag_CN] [sxy62146214](https://osu.ppy.sh/users/8386591), ![][flag_CN] [Summerleopard](https://osu.ppy.sh/users/8437630) | *TBD* |
 | hayang modol | ![][flag_ID] [Dedot](https://osu.ppy.sh/users/8805157), ![][flag_ID] [Mochi -](https://osu.ppy.sh/users/20424806) | *TBD* |
 | Team name  | ![][flag_CA] [Unlucky_w](https://osu.ppy.sh/users/4820793), ![][flag_CA] [Ymiir](https://osu.ppy.sh/users/3922569) | *TBD* |
 | Team Uzbekistan | ![][flag_UA] [M0RU](https://osu.ppy.sh/users/13681464), ![][flag_UA] [yuinn](https://osu.ppy.sh/users/11239593) | *TBD* |
-| VTuber Lovers (please help i am being held hostage) | ![][flag_ZA] [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944), ![][flag_ZA] [Phob](https://osu.ppy.sh/users/6069462) | *TBD* |
+| VTuber Lovers (please help i am being held hostage) | ![][flag_ZA] [Pieter](https://osu.ppy.sh/users/29282944), ![][flag_ZA] [Phob](https://osu.ppy.sh/users/6069462) | *TBD* |
+| """world cup""" | ![][flag_GB] [epic man 2](https://osu.ppy.sh/users/14566000), ![][flag_GB] [GDBlack](https://osu.ppy.sh/users/16976072) | *TBD* |
 | Frailure | ![][flag_US] [Feraligatr](https://osu.ppy.sh/users/7439226), ![][flag_US] [Chandelure](https://osu.ppy.sh/users/12013943) | *TBD* |
 | IceDynamix | ![][flag_DE] [EimitMaggi999](https://osu.ppy.sh/users/10922297), ![][flag_DE] [Vincus](https://osu.ppy.sh/users/16124906) | *TBD* |
 | Luminous Stairs | ![][flag_ID] [Zan-](https://osu.ppy.sh/users/1411817), ![][flag_ID] [Ichigaki](https://osu.ppy.sh/users/2403444) | *TBD* |
 | Olsen's Shipmates | ![][flag_PH] [Hytex](https://osu.ppy.sh/users/8536263), ![][flag_PH] [Ucitysm](https://osu.ppy.sh/users/14768693) | *TBD* |
+| Petmalu | ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | *TBD* |
 | please revive aspire (not lewd) | ![][flag_TW] [[ deleted ]](https://osu.ppy.sh/users/16341063), ![][flag_TW] [RuleBlazing](https://osu.ppy.sh/users/7312402) | *TBD* |
 | Shiba Inu | ![][flag_PH] [ERA Hatsuki](https://osu.ppy.sh/users/11306351), ![][flag_PH] [hexe](https://osu.ppy.sh/users/26190106) | *TBD* |
-|  we spent one discord message thinking of this teamname | ![][flag_US] [SilentWuffer](https://osu.ppy.sh/users/11355206), ![][flag_US] [Jonarwhal](https://osu.ppy.sh/users/3653035) | *TBD* |
+| The Furries Are Mitosising | ![][flag_US] [SilentWuffer](https://osu.ppy.sh/users/11355206), ![][flag_US] [NotiiJohn0](https://osu.ppy.sh/users/12578741) | *TBD* |
+| The Perth Maptus 🌵 | ![][flag_AU] [I LOVE REQUIS 2](https://osu.ppy.sh/users/14390680), ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) | *TBD* |
 | #TeamCancelled | ![][flag_PL] [h3oCharles](https://osu.ppy.sh/users/8712289), ![][flag_PL] [soirT](https://osu.ppy.sh/users/21076274) | *TBD* |
+| Frozen Bananas | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | *TBD* |
 | ikin87 | ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934), ![][flag_CA] [ikin5050](https://osu.ppy.sh/users/4007649) | *TBD* |
 | LovelyKittiesNyan:3 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099), ![][flag_US] [Hivie](https://osu.ppy.sh/users/14102976) | *TBD* |
 | low salary interns | ![][flag_US] [KatK1](https://osu.ppy.sh/users/21203707), ![][flag_US] [Axer](https://osu.ppy.sh/users/7299864) | *TBD* |
+| meow | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_US] [Horiiizon](https://osu.ppy.sh/users/8071438) | *TBD* |
+| Meow meow meow :3 | ![][flag_SG] [iamveryfat](https://osu.ppy.sh/users/23134914), ![][flag_SG] [Cryceptio](https://osu.ppy.sh/users/7397496) | *TBD* |
 | MONOCHROME | ![][flag_TH] [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) | *TBD* |
+| Printemps | ![][flag_JP] [makimen](https://osu.ppy.sh/users/10869389), ![][flag_JP] [uranosu1030](https://osu.ppy.sh/users/9029238) | *TBD* |
+| we spent one discord message thinking of this teamname | ![][flag_US] [SilentWuffer](https://osu.ppy.sh/users/11355206), ![][flag_US] [Jonarwhal](https://osu.ppy.sh/users/3653035) | *TBD* |
