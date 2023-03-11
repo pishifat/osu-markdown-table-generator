@@ -30,7 +30,7 @@ async function generate() {
         const user2 = await getUser(row[2].substring(25, row[2].length));
         await sleep(500);
 
-        output += `::{{ flag=${user1.country} }}:: [${user1.username}](https://osu.ppy.sh/users/${user1.user_id}), ::{{ flag=${user2.country} }}:: [${user2.username}](https://osu.ppy.sh/users/${user2.user_id}) | *TBD* |`;
+        output += `::{ flag=${user1.country} }:: [${user1.username}](https://osu.ppy.sh/users/${user1.user_id}), ::{ flag=${user2.country} }:: [${user2.username}](https://osu.ppy.sh/users/${user2.user_id}) | *TBD* |`;
 
         output += '\n';
         table += output;
