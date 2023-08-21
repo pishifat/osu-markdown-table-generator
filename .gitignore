@@ -1,2 +1,3 @@
-secret.json
+config.json
 /node_modules
+table.*

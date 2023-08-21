@@ -1,7 +1,6 @@
-generated this https://osu.ppy.sh/wiki/en/Contests/A_Labour_of_Love_Contest#teams (excluding the link column)
-
-now it does more (but not in a convenient way):
-
-`alol.js` -> a labour of love contest. reads from `teams.csv` using its team submission form format
-`triangles.js` -> triangles contest. reads from `triangles.csv` using its team submission form format
-`news.js` -> user flags and profile links for news posts. reads from `news.csv` separating user IDs by newlines
+generates tables based on `table.csv` with some osu-specific elements
+- first row is headers
+- every element in second column is `:--`
+- osu user links are replaced by `[flag] [username]`
+- osu beatmap links are replaced by `[artist] - [title]`
+- anything else is copied directly

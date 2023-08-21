@@ -1,5 +1,5 @@
 const fs = require("fs");
-const secret = require("./secret.json");
+const secret = require("../secret.json");
 const axios = require("axios");
 
 function sleep(ms) {
