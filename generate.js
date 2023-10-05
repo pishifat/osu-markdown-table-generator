@@ -25,7 +25,7 @@ async function generate() {
         
         for (const element of row) {
             if (element.includes('https://osu.ppy.sh/users/')) {
-                const user = await getUser(token, findUserId(element));
+                const user = await getUser(token, findUserIdOrUsername(element));
                 console.log(user.username);
                 await sleep(250);
 
@@ -129,7 +129,8 @@ async function getBeatmap(token, setId) {
         const res = await axios(options);
 
         return res.data;
-    } catch (error) {
+    }
+     catch (error) {
         return { error };
     }
 }
@@ -149,19 +150,22 @@ function findBeatmapsetId(url) {
     return parseInt(bmId, 10);
 }
 
-// find user id
-function findUserId(url) {
+// find user id (or username)
+function findUserIdOrUsername(url) {
     const indexStart = url.indexOf('users/') + 'users/'.length;
     const indexEnd = url.indexOf(url.length);
-    let userId = '';
+    let idOrUsername = '';
 
     if (indexEnd !== -1) {
-        userId = url.slice(indexStart, indexEnd);
+        idOrUsername = url.slice(indexStart, indexEnd);
     } else {
-        userId = url.slice(indexStart);
+        idOrUsername = url.slice(indexStart);
     }
 
-    return parseInt(userId, 10);
+    const osuId = parseInt(idOrUsername, 10);
+
+    if (isNaN(parseInt)) return idOrUsername;
+    else return osuId;
 }
 
 // sleep
