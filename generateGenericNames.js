@@ -2,7 +2,7 @@ const fs = require("fs");
 const { getClientCredentialsGrant, sleep, getUser } = require('./helpers');
 
 async function generate() {
-    const buffer = fs.readFileSync('names.txt');
+    const buffer = fs.readFileSync('./input/names.txt');
     const txt = buffer.toString();
 
     if (!txt) {
@@ -24,7 +24,7 @@ async function generate() {
         await sleep(250);  
     }
 
-    fs.writeFile('outputNames.txt', output, (error) => {
+    fs.writeFile('./output/names.txt', output, (error) => {
         if (error) throw err;
     });
 

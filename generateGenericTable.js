@@ -3,7 +3,7 @@ const { getClientCredentialsGrant, findUserIdOrUsername, findBeatmapsetId, getBe
 
 // generate table
 async function generate() {
-    const buffer = fs.readFileSync('table.csv');
+    const buffer = fs.readFileSync('./input/table.csv');
     const csv = buffer.toString();
 
     if (!csv) {
@@ -59,7 +59,7 @@ async function generate() {
         }
     }
 
-    fs.writeFile('table.md', table, (error) => {
+    fs.writeFile('./output/table.md', table, (error) => {
         if (error) throw err;
     });
 
