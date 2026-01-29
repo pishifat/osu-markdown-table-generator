@@ -25,18 +25,18 @@ async function generate() {
         for (const element of row) {
             if (element.includes('https://osu.ppy.sh/users/')) {
                 const user = await getUser(token, findUserIdOrUsername(element));
-                console.log(user.username);
+                console.log(`api username: ${user.username}`);
                 await sleep(250);
 
                 tableRow += `::{ flag=${user.country_code} }:: [${user.username}](https://osu.ppy.sh/users/${user.id})`;
             } else if (element.includes('https://osu.ppy.sh/beatmapsets/')) {
                 const beatmap = await getBeatmap(token, findBeatmapsetId(element));
-                console.log(`${beatmap.artist} - ${beatmap.title}`);
+                console.log(`api metadata: ${beatmap.artist} - ${beatmap.title}`);
                 await sleep(250);
 
                 tableRow += `[${beatmap.artist} - ${beatmap.title}](https://osu.ppy.sh/beatmapsets/${beatmap.id})`;
             } else {
-                console.log(element);
+                console.log(`input text: ${element}`);
                 tableRow += element;
             }
 

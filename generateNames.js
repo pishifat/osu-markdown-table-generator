@@ -17,9 +17,9 @@ async function generate() {
     let output = '';
 
     for (let i = 0; i < data.length; i++) {
-        console.log(data[i]);
+        console.log(`input username: ${data[i]}`);
         const user = await getUser(token, data[i]);
-        console.log(user.username);
+        console.log(`api username: ${user.username}`);
         output += `::{ flag=${user.country_code} }:: [${user.username}](https://osu.ppy.sh/users/${user.id}), `;
         await sleep(250);  
     }
