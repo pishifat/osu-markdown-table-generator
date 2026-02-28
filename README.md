@@ -15,6 +15,10 @@
 
 `generateContentUsagePermissionsTable.js` generates table used on https://osu.ppy.sh/wiki/en/Rules/Content_usage_permissions#allowed
 
+usage: `node generateContentUsagePermissionsTable.js {osuFeaturedArtistId} {featuredArtistName}`
+
 # `generateFeaturedArtistTable.js`
 
 `generateFeaturedArtistTable.js` generates table used on https://osu.ppy.sh/wiki/en/People/Featured_Artists#featured-artists-with-osu%21-accounts
+
+usage: `node generateFeaturedArtistTable.js {osuUserId} {osuFeaturedArtistId}`
